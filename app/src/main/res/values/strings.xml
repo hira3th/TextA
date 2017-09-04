@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextA</string>
+    <string name="block">&#9608;</string>
+    <string name="hint">Eigene Nachricht</string>
+</resources>
